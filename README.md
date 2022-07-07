@@ -1,6 +1,6 @@
 # Command to run:
 
-iverilog -o A5Q1_gcd_tb.vvp A5Q1_gcd_tb.v
+iverilog -o gcd_tb.vvp gcd_tb.v
 vvp A5Q1_gcd_tb.vvp
 
 # Description
